@@ -1,26 +1,15 @@
-# 🏗️ Projeto Final - Conclusão de Bloco 01
+# ⚙️ Projeto Final - Bloco 01 | Fundamentos & Lógica
 
-Este repositório marca a conclusão do primeiro grande ciclo do meu Bootcamp Full Stack. O foco principal aqui foi o domínio das tecnologias fundamentais da web e a estruturação de layouts modernos e responsivos.
+Este projeto consolida os fundamentos da programação, focando na construção de algoritmos sólidos e na resolução de problemas estruturais. É a prova da minha base técnica resiliente.
 
-## 🎯 Objetivo do Projeto
-Consolidar o aprendizado em **Web Fundamentals**, garantindo que a estrutura (HTML) e a estilização (CSS) sigam os padrões de semântica e acessibilidade, com as primeiras implementações de interatividade via JavaScript.
+### 💻 Destaques de Desenvolvimento
+- **Lógica Pura:** Implementação de algoritmos complexos sem dependência de bibliotecas externas.
+- **Estrutura de Dados:** Uso eficiente de coleções e tipos primitivos para otimização de memória.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estruturação semântica para melhor SEO e acessibilidade.
-- **CSS3**: Estilização avançada, uso de variáveis e seletores complexos.
-- **Design Responsivo**: Uso de Media Queries para adaptação em dispositivos móveis.
-- **JavaScript (Básico/Intermediário)**: Manipulação de eventos e lógica inicial de programação.
-
-## 🚀 O que aprendi neste bloco:
-- Como transformar um design estático em uma página funcional.
-- A importância da organização de arquivos e pastas (Assets, CSS, JS).
-- Controle de versão rigoroso utilizando **Git**.
-
-## 📁 Estrutura
-- `index.html`: Arquivo principal.
-- `/css`: Folhas de estilo organizadas.
-- `/assets`: Imagens e recursos visuais utilizados.
+### 🔍 Valor para Suporte e Análise
+Mostra que consigo entender a lógica raiz de qualquer software, facilitando o diagnóstico de falhas lógicas que ocorrem no dia a dia do atendimento técnico de Nível 3.
 
 ---
-🌱 **Bruna Luiza** - Evoluindo de grão em grão até o Full Stack.
-"A base forte é o que sustenta as grandes aplicações."
+### 🤝 Contato Profissional
+- **LinkedIn:** [goncalvesbrunal](https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
